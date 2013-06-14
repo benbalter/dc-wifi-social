@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039882,
+          38.898321
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "title": "The Exchange",
+        "address": "1719 G St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038193,
+          38.901345
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "title": "Blackfin",
+        "address": "1620 I St NW"
+      }
+    }    
+  ]
+}
