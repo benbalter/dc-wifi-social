@@ -1,8 +1,10 @@
 # DC WiFi Social
 
-A collaborative list of DC locations that serve up both Internet and Alcohol
+### A collaborative list of DC locations that serve up both Internet and Alcohol
 
-Because coding together is better than coding alone
+*Because coding together is better than coding alone (TM)*
+
+### [The Map](bars.geojson)
 
 ## License
 
