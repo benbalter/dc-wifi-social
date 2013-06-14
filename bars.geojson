@@ -36,6 +36,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.02149,
+          38.90369
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "The Passenger",
+        "address": "1021 7th St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.031950,
           38.907826
         ]
