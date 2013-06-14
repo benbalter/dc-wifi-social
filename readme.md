@@ -1,5 +1,8 @@
 # DC WiFi Social
 
+https://travis-ci.org/benbalter/dc-wifi-social.png
+
+
 ### A collaborative list of DC locations that serve up both Internet and Alcohol
 
 *Because coding together is better than coding alone (TM)*
