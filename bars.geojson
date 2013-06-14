@@ -76,6 +76,21 @@
         "name": "SoHo Cafe",
         "address": "2150 P St NW"
       }
-    }      
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.018627, 
+          38.899924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Chinatown Coffee Company",
+        "address": "475 H St NW"
+      }
+    }
   ]
 }
