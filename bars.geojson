@@ -82,7 +82,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.018627, 
+          -77.018627,
           38.899924
         ]
       },
@@ -90,6 +90,21 @@
         "marker-symbol": "bar",
         "name": "Chinatown Coffee Company",
         "address": "475 H St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027744,
+          38.929675
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Wonderland Ballroom",
+        "address": "  1101 Kenyon St NW"
       }
     }
   ]
