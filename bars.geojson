@@ -30,6 +30,22 @@
         "name": "Blackfin",
         "address": "1620 I St NW"
       }
-    }    
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031950,
+          38.907826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Churchkey",
+        "address": "1337 14th St NW",
+        "note": "Ask the bartender for the password"
+      }
+    }      
   ]
 }
