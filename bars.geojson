@@ -46,6 +46,21 @@
         "address": "1337 14th St NW",
         "note": "Ask the bartender for the password"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.047745,
+          38.909637
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "SoHo Cafe",
+        "address": "2150 P St NW"
+      }
     }      
   ]
 }
