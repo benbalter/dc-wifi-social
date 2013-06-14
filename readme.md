@@ -12,7 +12,7 @@ CC-BY-SA
 
 1. Fork the project
 2. Add or edit a location by following the existing format (hint, it's geoJSON)
-3. Verify your geojson is valid by pasting it into http://geojsonlint.com/
+3. Verify your geojson is valid by pasting it into http://geojsonlint.com/ or running `script/cibuild`
 4. Submit a pull request
 
 ## How to find the lat/long of a location
