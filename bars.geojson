@@ -12,7 +12,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "title": "The Exchange",
+        "name": "The Exchange",
         "address": "1719 G St NW"
       }
     },
@@ -27,7 +27,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "title": "Blackfin",
+        "name": "Blackfin",
         "address": "1620 I St NW"
       }
     }    
