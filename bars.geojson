@@ -52,6 +52,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.018728,
+          38.902708
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Busboys and Poets",
+        "address": "1025 5th St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.047745,
           38.909637
         ]
