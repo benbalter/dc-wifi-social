@@ -97,6 +97,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.043450,
+          38.905342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Science Club",
+        "address": "1136 19th St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.027744,
           38.929675
         ]
