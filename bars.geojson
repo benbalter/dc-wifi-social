@@ -121,6 +121,21 @@
         "name": "Wonderland Ballroom",
         "address": "  1101 Kenyon St NW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042438,
+          38.921894
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Tryst",
+        "address": "2459 18th St NW"
+      }
     }
   ]
 }
