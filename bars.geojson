@@ -136,6 +136,21 @@
         "name": "Tryst",
         "address": "2459 18th St NW"
       }
-    }
+    },
+   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.012659,
+          38.915561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Boundary Stone",
+        "address": "116 Rhode Island Ave NW"
+      }
+   }
   ]
 }
