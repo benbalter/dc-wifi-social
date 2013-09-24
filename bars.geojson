@@ -137,7 +137,22 @@
         "address": "2459 18th St NW"
       }
     },
-   {
+    {
+      "type": "Feature",
+      "geometry": {
+      "type": "Point",
+      "coordinates": [
+          -77.097225,
+          38.8859
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Northside Social",
+        "address": "3211 Wilson Blvd, Arlington, VA 22201"
+      }
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -151,6 +166,6 @@
         "name": "Boundary Stone",
         "address": "116 Rhode Island Ave NW"
       }
-   }
+    }
   ]
 }
