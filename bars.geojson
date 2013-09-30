@@ -36,7 +36,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.031950,
+          -77.03195,
           38.907826
         ]
       },
@@ -97,7 +97,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.043450,
+          -77.04345,
           38.905342
         ]
       },
@@ -165,6 +165,21 @@
         "marker-symbol": "bar",
         "name": "Boundary Stone",
         "address": "116 Rhode Island Ave NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Bistro Bohem",
+        "address": "600 Florida Ave Nw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02017903327942,
+          38.91535424264446
+        ]
       }
     }
   ]
