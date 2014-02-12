@@ -197,6 +197,36 @@
           38.898077
         ]
       }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.097225,
+          38.8859
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Northside Social",
+        "address": "3211 Wilson Blvd, Arlington, VA 22201"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.089549,
+          38.841304
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Busboys And Poets",
+        "address": "4251 Campbell Ave, Arlington, VA 22206"
+      }
     }
   ]
 }
