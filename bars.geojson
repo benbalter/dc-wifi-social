@@ -140,8 +140,8 @@
     {
       "type": "Feature",
       "geometry": {
-      "type": "Point",
-      "coordinates": [
+        "type": "Point",
+        "coordinates": [
           -77.097225,
           38.8859
         ]
@@ -179,6 +179,22 @@
         "coordinates": [
           -77.02017903327942,
           38.91535424264446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Old Ebbitt",
+        "address": "675 15th St NW",
+        "note": "Ask the bartender for the WiFi password"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033644,
+          38.898077
         ]
       }
     }
