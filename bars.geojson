@@ -197,6 +197,22 @@
           38.898077
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0276460,
+          38.9007690
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Capitol City Brewing Company",
+        "address": "1100 New York Ave NW",
+        "note": "Ask the bartender for the password"
+      }
+    }   
   ]
 }
