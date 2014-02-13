@@ -157,6 +157,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.045067,
+          38.821598
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Buzz Bakery Coffee & Lounge",
+        "address": "901 Slaters Lane, Alexandria, VA 22314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.012659,
           38.915561
         ]
