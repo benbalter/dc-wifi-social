@@ -215,6 +215,22 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "BlackJack",
+        "address": "1612 14th St NW",
+        "note": "WiFi password is blackjack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031950,
+          38.911532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
