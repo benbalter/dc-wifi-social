@@ -178,7 +178,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Boundary Stone",
+        "name": "Boundary Stone Public House",
         "address": "116 Rhode Island Ave NW"
       }
     },
@@ -244,6 +244,81 @@
         "address": "1100 New York Ave NW",
         "note": "Ask the bartender for the password"
       }
-    }   
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036554,
+          38.900201
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Off The Record",
+        "address": "800 16th St NW"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.071309,
+          38.919986
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "breadsoda",
+        "address": "2233 Wisconsin Ave NW"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042084,
+          38.906459
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "St. Arnold's on Jefferson",
+        "address": "1827 Jefferson Pl NW"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028620,
+          38.931821
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Meridian Pint",
+        "address": "3400 11th St NW"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.070275,
+          38.906094
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "The Tombs",
+        "address": "1226 36th St NW"
+      }
+    }
   ]
 }
