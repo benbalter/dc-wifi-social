@@ -1,6 +1,8 @@
-# The Last Mile
+# [View The Map](https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/ResourceDataInc/last-mile/master/routes.geojson)
 
 <img src="https://travis-ci.org/ResourceDataInc/last-mile.svg">
+
+## The Last Mile
 
 ### Bike and walk friendly routes to get to RDI Anchorage's new office.
 
@@ -9,8 +11,6 @@ Last summer RDI Anchorage moved into a new office space that is much-improved in
 Now, as the weather has turned warmer, many RDIers have been wondering about the best way to get to the new office by bike or foot (or skateboard, or ski, or whatever).  This repository is an attempt to improve the last mile of your non-motorized commute by sharing route information.  It is also an excuse to play with GitHub's GeoJSON capabilities.
 
 Please contribute the last mile or so of your commute to this repository so that it may help fellow RDIers.
-
-# [View The Map](routes.geojson)
 
 ## How to contribute
 
