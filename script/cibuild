@@ -3,9 +3,9 @@
 result=$(curl -X POST --data @routes.geojson $data http://geojsonlint.com/validate 2>/dev/null)
 
 if [ "$result" = "{\"status\": \"ok\"}" ]; then
-  echo "Valid geoJSON!"
+  echo "Valid GeoJSON!"
   exit 0
 else
-  echo "Invalid geoJSON"
+  echo "Invalid GeoJSON"
   exit 1
 fi
