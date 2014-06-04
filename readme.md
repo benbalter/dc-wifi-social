@@ -10,7 +10,7 @@ Now, as the weather has turned warmer, many RDIers have been wondering about the
 
 Please contribute the last mile or so of your commute to this repository so that it may help fellow RDIers.
 
-### [View The Map](routes.geojson)
+# [View The Map](routes.geojson)
 
 ## How to contribute
 
