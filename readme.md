@@ -1,5 +1,6 @@
 # The Last Mile
 
+<img src="https://travis-ci.org/ResourceDataInc/last-mile.svg">
 
 ### Bike and walk friendly routes to get to RDI Anchorage's new office.
 
