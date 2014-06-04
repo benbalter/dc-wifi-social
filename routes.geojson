@@ -4,6 +4,20 @@
         {
             "type": "Feature",
             "properties": {
+                "marker-symbol": "commercial",
+                "desc": "RDI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.873723,
+                    61.189100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "desc": "This route goes through Helen McDowell Sanctuary on the east side of Seward Highway.  Not the most direct route, but very pleasant."
             },
             "geometry": {
