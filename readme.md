@@ -20,8 +20,10 @@ Please contribute the last mile or so of your commute to this repository so that
 
 
 ## How to get your route into GeoJSON format
-
+###GPS 
 If you use a GPS device (smart phone, Garmin, etc.) and/or a fitness app (Strava, Endomondo, Garmin Connect, Map My Ride, etc.), you can download the route from your app's website in .gpx format.  Then use a [GPX to GeoJSON converter](http://mapbox.github.io/togeojson/) to convert it.  After you convert it, you'll probably want to delete the first half of the points, so everyone doesn't see exactly where you live.  Only the last mile or so is important. 
+###Draw your route
+You can use [geojson.io](http://geojson.io) to draw your route on a map and get the results in GeoJSON format.
 
 ## Validating the GeoJSON
 
