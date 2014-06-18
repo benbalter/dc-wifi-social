@@ -5655,13 +5655,13 @@
             }
         },
         {
-        "type": "Feature",
-        "properties": {
-        "desc": "East-side route via the Chester Creek Trail"
-              },
-        "geometry": {
-          "type": "LineString",
-          "coordinates": [
+          "type": "Feature",
+          "properties": {
+          "desc": "East-side route via the Chester Creek Trail"
+                },
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
             [
               -149.8737072944641,
               61.189254524836976
@@ -6255,7 +6255,7 @@
       {
         "type": "Feature",
           "properties": {
-            "marker-symbol": "bicycle",
+            "marker-symbol": "suitcase",
             "desc": "Crowne Plaza"
           },
           "geometry": {
