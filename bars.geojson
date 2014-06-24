@@ -199,6 +199,21 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011702,
+          38.915533
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Rustik Neighborhood Tavern",
+        "address": "84 T St. NW"
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "marker-symbol": "bar",
         "name": "Old Ebbitt",
