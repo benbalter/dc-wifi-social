@@ -12,9 +12,18 @@
       },
       "properties": {
        "name": "Molasses Disaster, 1919",
-       "description": "<a href="http://en.wikipedia.org/wiki/Boston_Molasses_Disaster">Site of disasterous molasses flood, 1919</a>",
+       "description": "Site of disasterous molasses flood, 1919",
         "marker-symbol": "wetland",
-        "address": "475 Commercial Street"
+        "address": "475 Commercial Street",
+        "items": {
+          "title": "Sub-schema",
+          "links": [
+           {
+              "href": "http://example.com/items/{id}/comments",
+              "rel": "comments"
+            }
+          ]
+        }
       }
     }
   ]
