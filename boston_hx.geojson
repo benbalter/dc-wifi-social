@@ -11,7 +11,9 @@
         ]
       },
       "properties": {
-        "marker-symbol": "star",
+       "title": "Molasses Disaster, 1919",
+       "description": "Site of molasses flood, 1919",
+        "marker-symbol": "wetland",
         "name": "Molasses Disaster",
         "address": "475 Commercial Street"
       }
