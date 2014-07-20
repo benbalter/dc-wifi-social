@@ -16,10 +16,10 @@
         "marker-symbol": "wetland",
         "address": "475 Commercial Street",
         "items": {
-          "title": "Sub-schema",
+          "title": "History",
           "links": [
            {
-              "href": "http://example.com/items/{id}/comments",
+              "href": "http://en.wikipedia.org/wiki/Boston_Molasses_Disaster",
               "rel": "comments"
             }
           ]
