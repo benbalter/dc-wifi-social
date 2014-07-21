@@ -17,9 +17,8 @@
         "address": "475 Commercial Street",
         "url": "http://en.wikipedia.org/wiki/Boston_Molasses_Disaster"
       }
-    }
-
-{
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -32,7 +31,7 @@
        "name": "Post Office Square",
        "description": "Fidelity Investments is here.",
         "marker-symbol": "star",
-        "address": "1 Post Office Square",
+        "address": "1 Post Office Square"
        }
     }
   ]
