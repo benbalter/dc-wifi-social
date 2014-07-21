@@ -18,5 +18,22 @@
         "url": "http://en.wikipedia.org/wiki/Boston_Molasses_Disaster"
       }
     }
+
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -71.056753,
+          42.357582
+        ]
+      },
+      "properties": {
+       "name": "Post Office Square",
+       "description": "Fidelity Investments is here.",
+        "marker-symbol": "star",
+        "address": "1 Post Office Square",
+       }
+    }
   ]
 }
