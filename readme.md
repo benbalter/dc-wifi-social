@@ -22,7 +22,7 @@ CC-BY-SA
 
 ## How to locate a place of interest
 
-Use one of the websites listed in [resources](boston_hx.geojson). You aren't limited to the histories here, by any means! Also, you might have to do a slight bit of digging, google-map discovery to get an address.
+Use one of the websites listed in [resources](resources.txt). You aren't limited to the histories here, by any means! Also, you might have to do a slight bit of digging, google-map discovery to get an address.
 
 ## How to find the lat/long of an address.
 
