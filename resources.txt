@@ -1,4 +1,6 @@
-Icons for map:  "title": "Small astronaut",
+Icons for map: https://www.mapbox.com/maki/
+
+Mapbox examples: https://www.mapbox.com/mapbox.js/example/v1.0.0/
 
 =============================
 RESOURCES FOR BOSTORY HISTORY
