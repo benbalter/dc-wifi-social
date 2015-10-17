@@ -142,6 +142,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.09089599999999,
+          38.88924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Arlington Pub at Whole Foods Market",
+        "address": "2700 Wilson Blvd, Arlington, VA 22201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1080128,
+          38.8801218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Buzz Bakery Coffee & Lounge",
+        "address": "818 N Quincy St, Arlington, VA 22203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.097225,
           38.8859
         ]
@@ -150,6 +180,36 @@
         "marker-symbol": "bar",
         "name": "Northside Social",
         "address": "3211 Wilson Blvd, Arlington, VA 22201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1080128,
+          38.8801218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Buzz Bakery Coffee & Lounge",
+        "address": "818 N Quincy St, Arlington, VA 22203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0866120204082,
+          38.8627485306122
+          ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Twisted Vines Bottleshop & Bistro",
+        "address": "2803 Columbia Pike, Arlington, VA 22204"
       }
     },
     {
