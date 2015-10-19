@@ -59,7 +59,7 @@
       "properties": {
         "marker-symbol": "bar",
         "name": "Busboys and Poets",
-        "address": "1025 5th St NW"
+        "address": "1025 5th St NW, Washington DC, 20001"
       }
     },
     {
@@ -142,28 +142,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.018677,
-          38.902802
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Busboys & Poets",
-        "address": "City Vista, 1025 5th St NW, Washington, DC 20001"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -76.940028,
           38.954998
         ]
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Busboys & Poets",
+        "name": "Busboys and Poets",
         "address": "5331 Baltimore Ave, Hyattsville, MD 20781"
       }
     },
@@ -178,7 +163,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Busboys & Poets",
+        "name": "Busboys and Poets",
         "address": "2021 14th St NW, Washington, DC 20009"
       }
     },
@@ -283,7 +268,7 @@
       },
       "properties": {
         "marker-symbol": "bar",
-        "name": "Busboys & Poets",
+        "name": "Busboys and Poets",
         "address": "4251 Campbell Ave, Arlington, VA 22206"
       }
     },
