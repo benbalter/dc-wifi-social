@@ -127,6 +127,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.031888,
+          38.930366
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Sticky Fingers Bakery",
+        "address": "1370 Park Rd NW, Washington, DC 20010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.018677,
+          38.902802
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Busboys & Poets",
+        "address": "City Vista, 1025 5th St NW, Washington, DC 20001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.940028,
+          38.954998
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Busboys & Poets",
+        "address": "5331 Baltimore Ave, Hyattsville, MD 20781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031863,
+          38.917992
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Busboys & Poets",
+        "address": "2021 14th St NW, Washington, DC 20009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.042438,
           38.921894
         ]
@@ -210,6 +270,21 @@
         "marker-symbol": "bar",
         "name": "Twisted Vines Bottleshop & Bistro",
         "address": "2803 Columbia Pike, Arlington, VA 22204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.089559,
+          38.841205
+          ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Busboys & Poets",
+        "address": "4251 Campbell Ave, Arlington, VA 22206"
       }
     },
     {
