@@ -440,13 +440,28 @@
         "address": "3400 11th St NW"
       }
     },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028620,
+          38.931821
+        ]
+      },
+      "properties": {
+        "marker-symbol": "star",
+        "name": "NZ Embassy",
+        "address": "37 Observatory Cir NW "
+      }
+    },  
 	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.070275,
-          38.906094
+          -77.070041,
+          38.923023
         ]
       },
       "properties": {

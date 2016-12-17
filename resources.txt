@@ -1,0 +1,44 @@
+Icons for map: https://www.mapbox.com/maki/
+
+Mapbox examples: https://www.mapbox.com/mapbox.js/example/v1.0.0/
+
+=============================
+RESOURCES FOR BOSTORY HISTORY
+
+Black Heritage Trail
+http://www.afroammuseum.org/trailmap.htm
+
+Boston Equality Trail
+http://www.bostonusa.com/visit/bostoneveryday/whattodo/sightseeingtoursandtrails/equalitytrail/
+
+Boston Fire History
+http://www.bostonfirehistory.org/bfdfires.html
+
+Boston Women's Heritage Trail
+http://bwht.org/tours/ 
+Go to the pull-down menu under Tours -> Self-Guided Tours to see a list of tours by neighborhood.
+
+The Bostonian Society
+http://www.bostonhistory.org/?s=education&p=histmarkers
+
+Historic Boston Incorporated
+Historic buildings, including the house where Malcolm X lived
+http://www.historicboston.org/info/projects/ongoing/index.html
+
+Irish Heritage Trail
+http://www.irishheritagetrail.com/boston/
+
+Working People's Tour of Boston
+Labor History.
+In pdf form. May have to google around to get exact locations.
+http://www.laborhistorylinks.org/PDF%20Files/A%20Working%20People's%20tour%20of%20Boston.pdf
+
+
+
+==========
+NOT ABOUT BOSTON HISTORY, BUT EXAMPLES OF GREAT PROJECTS DONE FOR BOSTON
+https://github.com/codeforboston
+
+A LOT MORE INFO, A LOT MORE MAP
+http://www.cityofboston.gov/landmarks/historic/
+
